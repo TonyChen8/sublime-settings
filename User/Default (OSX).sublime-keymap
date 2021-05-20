@@ -695,22 +695,6 @@
     }
   },
 
-  { "keys": ["ctrl+k", "ctrl+y"], "command": "yank" },
-  { "keys": ["ctrl+k", "ctrl+k"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete to Hard EOL.sublime-macro"} },
-  { "keys": ["ctrl+k", "ctrl+backspace"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete to Hard BOL.sublime-macro"} },
-  { "keys": ["ctrl+k", "ctrl+c"], "command": "show_at_center" },
-
-  // These are OS X built in commands, and don't need to be listed here, but
-  // doing so lets them show up in the menu
-  { "keys": ["ctrl+alt+shift+y"], "command": "yank" },
-  { "keys": ["ctrl+backspace"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete to Hard BOL.sublime-macro"} },
-  // ctrl+delete isn't a built in command, but makes sense anyway
-  { "keys": ["ctrl+delete"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete to Hard EOL.sublime-macro"} },
-  { "keys": ["ctrl+k"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete to Hard EOL.sublime-macro"} },
-  { "keys": ["ctrl+l"], "command": "show_at_center" },
-  { "keys": ["ctrl+o"], "command": "insert_snippet", "args": { "contents": "$0\n" } },
-  { "keys": ["ctrl+ctrl+d"], "command": "noop" },
-
   // HTML, XML close tag
   { "keys": ["/"], "command": "close_tag", "args": { "insert_slash": true }, "context":
     [
