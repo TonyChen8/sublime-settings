@@ -1,6 +1,11 @@
 {
 	"ignored_packages":
 	[
+		"PackageResourceViewer",
+		"React Native Autocomplete",
+		"Sass",
+		"SASS Build",
+		"TerminalView",
 		"Vintage"
 	]
 }
