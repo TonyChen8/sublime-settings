@@ -245,7 +245,6 @@
   },
 
   { "keys": ["ctrl+alt+p"], "command": "show_scope_name" },
-  { "keys": ["ctrl+shift+p"], "command": "show_scope_name" },
 
   { "keys": ["f7"], "command": "build" },
   { "keys": ["ctrl+b"], "command": "build" },
