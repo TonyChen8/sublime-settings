@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"BracketHighlighter",
+		"Case Conversion",
+		"Color Highlight",
+		"Color Highlighter",
+		"EditorConfig",
+		"Emmet",
+		"Flow",
+		"HTML-CSS-JS Prettify",
+		"Increment Selection",
+		"JavaScript Enhancements",
+		"JsPrettier",
+		"Package Control",
+		"phpfmt",
+		"Random Text",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"Terminal",
+		"TerminalView",
+		"Vue Syntax Highlight",
+		"VueFormatter",
+		"Xdebug Client"
+	]
+}
