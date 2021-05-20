@@ -182,7 +182,6 @@
   { "keys": ["ctrl+t"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
   { "keys": ["ctrl+p"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
   { "keys": ["ctrl+shift+p"], "command": "show_overlay", "args": {"overlay": "command_palette"} },
-  { "keys": ["ctrl+ctrl+p"], "command": "prompt_select_workspace" },
   { "keys": ["ctrl+r"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"} },
   { "keys": ["ctrl+g"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} },
   { "keys": ["f12"], "command": "goto_definition" },
