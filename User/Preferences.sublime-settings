@@ -1,4 +1,5 @@
 {
+	"detect_indentation": false,
 	"ignored_packages":
 	[
 		"PackageResourceViewer",
@@ -7,5 +8,7 @@
 		"SASS Build",
 		"TerminalView",
 		"Vintage"
-	]
+	],
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true
 }
