@@ -6,9 +6,8 @@
 		"React Native Autocomplete",
 		"Sass",
 		"SASS Build",
-		"TerminalView",
-		"Vintage"
+		"Vintage",
 	],
 	"tab_size": 2,
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
 }

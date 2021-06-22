@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"TerminalView"
 	],
 	"installed_packages":
 	[
@@ -28,6 +27,6 @@
 		"TerminalView",
 		"Vue Syntax Highlight",
 		"VueFormatter",
-		"Xdebug Client"
-	]
+		"Xdebug Client",
+	],
 }
